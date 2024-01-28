@@ -1,0 +1,57 @@
+2024-01-27 23:01:300 INFO  HomePage :28 - Verifying Homepage Url
+2024-01-27 23:01:169 INFO  HomePage :28 - Verifying Homepage Url
+2024-01-27 23:01:438 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:691 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (60312b24420682954d18a5f7c9b9a974)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-27 23:01:944 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:194 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (3f8a610f512cad55d95c33ac61f3e48f)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-27 23:01:480 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:789 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (97b78637f2937c68f313081bc0cdd26c)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-27 23:01:549 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:839 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (6991cedb2486c368428dd88f2ec744fd)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-27 23:01:355 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:675 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (e31d273834e815fb421aab4aa9a9c150)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-27 23:01:649 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:93 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (5371a0236fd9118b878d47f7516628bd)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-27 23:01:455 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-27 23:01:843 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (736678b26e2ffaa1349c2223952e13db)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-28 00:01:433 INFO  HomePage :32 - Verifying Homepage Url
+2024-01-28 00:01:629 INFO  HomePage :43 - Clicking on Join Now : [[ChromeDriver: chrome on windows (915cf165acbdd214f38e1541ab64012e)] -> xpath: //a[normalize-space()='Join Now']]
+2024-01-28 00:01:86 INFO  HomePage :38 - Verifying Homepage Url
+2024-01-28 00:01:594 INFO  HomePage :38 - Verifying Homepage Url
+2024-01-28 00:01:490 INFO  HomePage :38 - Verifying Homepage Url
+2024-01-28 00:01:233 INFO  HomePage :38 - Verifying Homepage Url
+2024-01-28 00:01:361 INFO  HomePage :65 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (a1443c1482ebe7e3d8ec3a5361bdfe48)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:628 INFO  HomePage :38 - Verifying Homepage Url
+2024-01-28 00:01:776 INFO  HomePage :65 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (00b0a94ef658c193fbce68cf5952a21e)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:122 INFO  HomePage :38 - Verifying Homepage Url
+2024-01-28 00:01:270 INFO  HomePage :65 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (8bfaa76fe7787533ff6122ed2d4e827c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:308 INFO  HomePage :30 - Verifying Homepage Url
+2024-01-28 00:01:437 INFO  HomePage :48 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (c554a1b90c3ba8a5ef688a474401a112)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:462 INFO  HomePage :53 - Getting text from responsible Gambling :[[ChromeDriver: chrome on windows (c554a1b90c3ba8a5ef688a474401a112)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:949 INFO  HomePage :60 - Clicking onto Responsible Gambling : [[ChromeDriver: chrome on windows (c554a1b90c3ba8a5ef688a474401a112)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:974 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (c554a1b90c3ba8a5ef688a474401a112)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 00:01:992 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (c554a1b90c3ba8a5ef688a474401a112)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 00:01:64 INFO  HomePage :30 - Verifying Homepage Url
+2024-01-28 00:01:215 INFO  HomePage :48 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (d5c7bc8077d12bc318545ba4a2f7c38c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:247 INFO  HomePage :53 - Getting text from responsible Gambling :[[ChromeDriver: chrome on windows (d5c7bc8077d12bc318545ba4a2f7c38c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:723 INFO  HomePage :60 - Clicking onto Responsible Gambling : [[ChromeDriver: chrome on windows (d5c7bc8077d12bc318545ba4a2f7c38c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:754 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (d5c7bc8077d12bc318545ba4a2f7c38c)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 00:01:785 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (d5c7bc8077d12bc318545ba4a2f7c38c)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 00:01:54 INFO  HomePage :30 - Verifying Homepage Url
+2024-01-28 00:01:215 INFO  HomePage :48 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (0f582437c3d7c2e75eca767db3e6d3bd)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:242 INFO  HomePage :53 - Getting text from responsible Gambling :[[ChromeDriver: chrome on windows (0f582437c3d7c2e75eca767db3e6d3bd)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:873 INFO  HomePage :60 - Clicking onto Responsible Gambling : [[ChromeDriver: chrome on windows (0f582437c3d7c2e75eca767db3e6d3bd)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 00:01:899 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (0f582437c3d7c2e75eca767db3e6d3bd)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 00:01:927 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (0f582437c3d7c2e75eca767db3e6d3bd)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 00:01:760 INFO  HomePage :30 - Verifying Homepage Url
+2024-01-28 01:01:909 INFO  HomePage :48 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (67637e83b973c8b659887f87b371b023)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 01:01:939 INFO  HomePage :53 - Getting text from responsible Gambling :[[ChromeDriver: chrome on windows (67637e83b973c8b659887f87b371b023)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 01:01:382 INFO  HomePage :60 - Clicking onto Responsible Gambling : [[ChromeDriver: chrome on windows (67637e83b973c8b659887f87b371b023)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 01:01:408 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (67637e83b973c8b659887f87b371b023)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 01:01:440 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (67637e83b973c8b659887f87b371b023)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 01:01:278 INFO  HomePage :30 - Verifying Homepage Url
+2024-01-28 01:01:438 INFO  HomePage :48 - Scrolling down to Responsible Gambling :[[ChromeDriver: chrome on windows (95ed70348d92a9e376d376c2398cfe9c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 01:01:470 INFO  HomePage :53 - Getting text from responsible Gambling :[[ChromeDriver: chrome on windows (95ed70348d92a9e376d376c2398cfe9c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 01:01:900 INFO  HomePage :60 - Clicking onto Responsible Gambling : [[ChromeDriver: chrome on windows (95ed70348d92a9e376d376c2398cfe9c)] -> xpath: //a[normalize-space()='Responsible Gambling']]
+2024-01-28 01:01:930 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (95ed70348d92a9e376d376c2398cfe9c)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
+2024-01-28 01:01:964 INFO  ResponsibleGamblingPage :22 - Verifying the Gamble Responsibly at Virgin Games text :[[ChromeDriver: chrome on windows (95ed70348d92a9e376d376c2398cfe9c)] -> xpath: //h1[normalize-space()='Gamble Responsibly at Virgin Games']]
